@@ -1,0 +1,1 @@
+cmd_/home/wyb/workspace/crazyflie-firmware/examples/app_hello_world/built-in.o :=  arm-none-eabi-gcc --specs=nosys.specs --specs=nano.specs -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16   -r -o /home/wyb/workspace/crazyflie-firmware/examples/app_hello_world/built-in.o /home/wyb/workspace/crazyflie-firmware/examples/app_hello_world/src/built-in.o
